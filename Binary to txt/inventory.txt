@@ -1,0 +1,12 @@
+Name: Apple, Price: 0.50, Quantity: 100, Category: Grocery
+Name: Banana, Price: 0.30, Quantity: 150, Category: Grocery
+Name: Milk, Price: 1.20, Quantity: 50, Category: Grocery
+Name: Bread, Price: 1.50, Quantity: 30, Category: Bakery
+Name: Cheese, Price: 3.50, Quantity: 20, Category: Grocery
+Name: Cake, Price: 15.00, Quantity: 10, Category: Bakery
+Name: Laptop, Price: 999.99, Quantity: 10, Category: Electronics
+Name: Smartphone, Price: 599.99, Quantity: 25, Category: Electronics
+Name: Headphones, Price: 199.99, Quantity: 100, Category: Electronics
+Name: TV, Price: 399.99, Quantity: 5, Category: Electronics
+Name: Biscuits, Price: 2.50, Quantity: 200, Category: Bakery
+Name: Cookies, Price: 3.00, Quantity: 180, Category: Bakery
